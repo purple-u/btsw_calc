@@ -1,0 +1,36 @@
+<chapter_list>
+    <chapter name="챕터를 선택하세요" need_card="0">
+        <episode name="에피소드를 선택하세요"  score="60210" sens="0" pass="0" stam="0" wis="0"/>
+    </chapter>
+    <chapter name="chapter 6" need_card="4">
+        <episode name="1" score="42284" sens="2.0" pass="0.5" stam="1.5" wis="0.5"/>
+        <episode name="2" score="42788" sens="1.5" pass="0.5" stam="0.5" wis="2.0"/>
+        <episode name="4" score="43560" sens="0.5" pass="2.0" stam="1.5" wis="0.5"/>
+        <episode name="5" score="44068" sens="1.5" pass="0.5" stam="2.0" wis="0.5"/>
+        <episode name="7" score="44840" sens="2.0" pass="0.5" stam="0.5" wis="1.5"/>
+        <episode name="8" score="45344" sens="1.5" pass="2.0" stam="0.5" wis="0.5"/>
+        <episode name="9" score="45848" sens="1.5" pass="0.5" stam="2.0" wis="0.5"/>
+        <episode name="11" score="46624" sens="0.5" pass="1.5" stam="0.5" wis="2.0"/>
+        <episode name="12" score="47124" sens="0.5" pass="2.0" stam="0.5" wis="1.5"/>
+        <episode name="14" score="47900" sens="0.5" pass="0.5" stam="2.0" wis="1.5"/>
+        <episode name="15" score="48404" sens="2.0" pass="0.5" stam="1.5" wis="0.5"/>
+        <episode name="17" score="49180" sens="1.5" pass="2.0" stam="0.5" wis="0.5"/>
+        <episode name="18" score="49448" sens="1.5" pass="0.5" stam="2.0" wis="0.5"/>
+        <episode name="19" score="49720" sens="0.5" pass="1.5" stam="0.5" wis="2.0"/>
+    </chapter>
+    <chapter name="chapter 7" need_card="5">
+        <episode name="2" score="60210" sens="2.2" pass="1.8" stam="0.3" wis="0.2"/>
+        <episode name="3" score="60415" sens="0.2" pass="1.8" stam="0.3" wis="2.2"/>
+        <episode name="4" score="60935" sens="1.8" pass="0.2" stam="0.3" wis="2.2"/>
+        <episode name="6" score="61385" sens="2.2" pass="0.3" stam="0.2" wis="1.8"/>
+        <episode name="7" score="61610" sens="0.2" pass="2.2" stam="0.3" wis="1.8"/>
+        <episode name="8" score="62100" sens="0.3" pass="0.2" stam="1.8" wis="2.2"/>
+        <episode name="10" score="62550" sens="0.2" pass="0.3" stam="2.2" wis="1.8"/>
+        <episode name="11" score="6227" sens="1.8" pass="2.2" stam="0.2" wis="0.3"/>
+        <episode name="13" score="63205" sens="0.3" pass="0.2" stam="1.8" wis="2.2"/>
+        <episode name="14" score="63725" sens="1.8" pass="0.3" stam="2.2" wis="0.2"/>
+        <episode name="15" score="63950" sens="0.2" pass="1.8" stam="2.2" wis="0.3"/>
+        <episode name="17" score="64400" sens="0.3" pass="1.8" stam="2.2" wis="0.2"/>
+        <episode name="19" score="65115" sens="2.2" pass="0.2" stam="1.8" wis="0.3"/>
+    </chapter>
+</chapter_list>
