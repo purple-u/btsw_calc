@@ -1,241 +1,241 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <card_list>
-    <card member="rm" name="명탐정" id="5001" type="감성" star="5" level="50" sens="4185" pass="2518" stam="1830" wis="1805"/>
-    <card member="rm" name="웃어 봐" id="5002" type="열정" star="5" level="50" sens="1819" pass="4185" stam="2474" wis="1830"/>
-    <card member="rm" name="클래식" id="5003" type="열정" star="5" level="50" sens="2550" pass="3393" stam="2168" wis="2140"/>
-    <card member="rm" name="프로페셔널" id="5004" type="감성" star="5" level="50" sens="3602" pass="2910" stam="1805" wis="1866"/>
-    <card member="rm" name="꿈나라 RM" id="5005" type="감성" star="5" level="50" sens="3670" pass="1994" stam="2658" wis="1972"/>
-    <card member="rm" name="로맨틱 RM" id="5006" type="체력" star="5" level="50" sens="2550" pass="1866" stam="3951" wis="1805"/>
-    <card member="rm" name="FAKE LOVE RM" id="5007" type="감성" star="5" level="50" sens="3253" pass="2550" stam="2474" wis="1866"/>
-    <card member="rm" name="레드카펫 RM" id="5008" type="지혜" star="5" level="50" sens="2658" pass="1645" stam="1650" wis="4214"/>
-    <card member="rm" name="여름 소년 RM" id="5009" type="열정" star="5" level="50" sens="2474" pass="3789" stam="2168" wis="1830"/>
-    <card member="rm" name="셜록 남준" id="4001" type="지혜" star="4" level="50" sens="2516" pass="1594" stam="1572" wis="3319"/>
-    <card member="rm" name="증거 수집" id="4002" type="감성" star="4" level="50" sens="2967" pass="2205" stam="1914" wis="1869"/>
-    <card member="rm" name="결정적 단서" id="4003" type="열정" star="4" level="50" sens="1584" pass="3319" stam="2167" wis="1914"/>
-    <card member="rm" name="트렌치 코트" id="4004" type="감성" star="4" level="50" sens="3191" pass="1626" stam="2464" wis="1584"/>
-    <card member="rm" name="보조개 미남" id="4005" type="열정" star="4" level="50" sens="1572" pass="3191" stam="1584" wis="2682"/>
-    <card member="rm" name="김데일리" id="4006" type="체력" star="4" level="50" sens="1869" pass="1626" stam="3153" wis="2234"/>
-    <card member="rm" name="빨간 실" id="4007" type="지혜" star="4" level="50" sens="2256" pass="1754" stam="1740" wis="3213"/>
-    <card member="rm" name="비 온 뒤 맑음" id="4008" type="체력" star="4" level="50" sens="2682" pass="1584" stam="3191" wis="1572"/>
-    <card member="rm" name="아지트" id="4009" type="지혜" star="4" level="50" sens="1895" pass="2330" stam="1572" wis="3191"/>
-    <card member="rm" name="생일 파티" id="4010" type="열정" star="4" level="50" sens="1594" pass="3671" stam="2167" wis="1584"/>
-    <card member="rm" name="소년 탐정" id="4011" type="지혜" star="4" level="50" sens="1423" pass="2330" stam="1429" wis="3831"/>
-    <card member="rm" name="사랑 사랑 사랑" id="3001" type="감성" star="3" level="50" sens="2947" pass="1399" stam="1687" wis="1908"/>
-    <card member="rm" name="고민하지 마" id="3002" type="체력" star="3" level="50" sens="1399" pass="2051" stam="2757" wis="1687"/>
-    <card member="rm" name="널 만나러 가" id="3003" type="지혜" star="3" level="50" sens="1967" pass="1743" stam="1648" wis="2530"/>
-    <card member="rm" name="꽃길만 걷자" id="3004" type="감성" star="3" level="50" sens="3255" pass="1387" stam="1967" wis="1399"/>
-    <card member="rm" name="스트레칭" id="3005" type="지혜" star="3" level="50" sens="1897" pass="1778" stam="1827" wis="2394"/>
-    <card member="rm" name="김남준 아님 RM" id="3006" type="열정" star="3" level="50" sens="1257" pass="3563" stam="1263" wis="1967"/>
-    <card member="rm" name="당연하지" id="3007" type="열정" star="3" level="50" sens="1942" pass="2639" stam="1648" wis="1687"/>
-    <card member="rm" name="용서해 줘" id="3008" type="체력" star="3" level="50" sens="1407" pass="1387" stam="3255" wis="1942"/>
-    <card member="rm" name="흐뭇한 미소" id="3009" type="지혜" star="3" level="50" sens="1967" pass="1281" stam="1257" wis="3345"/>
-    <card member="rm" name="딴 생각" id="3010" type="감성" star="3" level="50" sens="2947" pass="1399" stam="2247" wis="1387"/>
-    <card member="rm" name="힐끗" id="3011" type="열정" star="3" level="50" sens="1648" pass="2639" stam="1942" wis="1687"/>
-    <card member="rm" name="합격" id="3012" type="체력" star="3" level="50" sens="1967" pass="1399" stam="3255" wis="1387"/>
-    <card member="rm" name="예쁜 짓" id="3013" type="체력" star="3" level="50" sens="1267" pass="1908" stam="3563" wis="1263"/>
-    <card member="rm" name="영감이 떠올라" id="3014" type="지혜" star="3" level="50" sens="1967" pass="1743" stam="1670" wis="2496"/>
-    <card member="jin" name="미남이시네요" id="5001" type="감성" star="5" level="50" sens="4185" pass="2518" stam="1830" wis="1805"/>
-    <card member="jin" name="월드와이드핸섬" id="5002" type="체력" star="5" level="50" sens="2550" pass="2168" stam="3393" wis="2140"/>
-    <card member="jin" name="출근 준비" id="5003" type="열정" star="5" level="50" sens="1830" pass="4185" stam="2474" wis="1819"/>
-    <card member="jin" name="잘 부탁드립니다" id="5004" type="지혜" star="5" level="50" sens="2910" pass="1830" stam="1830" wis="3645"/>
-    <card member="jin" name="꿈나라 진" id="5005" type="열정" star="5" level="50" sens="1994" pass="3670" stam="2575" wis="2010"/>
-    <card member="jin" name="로맨틱 진" id="5006" type="체력" star="5" level="50" sens="2658" pass="1819" stam="4005" wis="1805"/>
-    <card member="jin" name="FAKE LOVE 진" id="5007" type="지혜" star="5" level="50" sens="2518" pass="2658" stam="1805" wis="3285"/>
-    <card member="jin" name="레드카펫 진" id="5008" type="지혜" star="5" level="50" sens="2550" pass="1668" stam="1637" wis="4300"/>
-    <card member="jin" name="여름 소년 진" id="5009" type="체력" star="5" level="50" sens="2550" pass="2140" stam="3789" wis="1819"/>
-    <card member="jin" name="미모 열일" id="4001" type="감성" star="4" level="50" sens="2967" pass="2167" stam="1914" wis="1895"/>
-    <card member="jin" name="특급 서비스" id="4002" type="감성" star="4" level="50" sens="3191" pass="1584" stam="1978" wis="2167"/>
-    <card member="jin" name="꽃을 든 남자" id="4003" type="열정" star="4" level="50" sens="1594" pass="3101" stam="2330" wis="1895"/>
-    <card member="jin" name="방긋 미소" id="4004" type="열정" star="4" level="50" sens="1584" pass="3191" stam="2464" wis="1626"/>
-    <card member="jin" name="너무 달콤해" id="4005" type="체력" star="4" level="50" sens="1626" pass="1572" stam="3191" wis="2516"/>
-    <card member="jin" name="어깨 미남" id="4006" type="체력" star="4" level="50" sens="1914" pass="1584" stam="3319" wis="2167"/>
-    <card member="jin" name="생각에 빠진" id="4007" type="체력" star="4" level="50" sens="2330" pass="1720" stam="3213" wis="1740"/>
-    <card member="jin" name="언더커버" id="4008" type="지혜" star="4" level="50" sens="2554" pass="1626" stam="1584" wis="3101"/>
-    <card member="jin" name="혼자만의 시간" id="4009" type="지혜" star="4" level="50" sens="1584" pass="2234" stam="1572" wis="3671"/>
-    <card member="jin" name="오후의 휴식" id="4010" type="감성" star="4" level="50" sens="3773" pass="2330" stam="1423" wis="1434"/>
-    <card member="jin" name="올해의 남자" id="4011" type="열정" star="4" level="50" sens="1434" pass="4023" stam="2167" wis="1429"/>
-    <card member="jin" name="손키스" id="3001" type="지혜" star="3" level="50" sens="1407" pass="1687" stam="1967" wis="2835"/>
-    <card member="jin" name="하트 뿅" id="3002" type="열정" star="3" level="50" sens="1399" pass="2947" stam="1908" wis="1687"/>
-    <card member="jin" name="포근해" id="3003" type="감성" star="3" level="50" sens="2639" pass="1942" stam="1687" wis="1648"/>
-    <card member="jin" name="좋아요" id="3004" type="열정" star="3" level="50" sens="1648" pass="2639" stam="1670" wis="1967"/>
-    <card member="jin" name="자유시간" id="3005" type="체력" star="3" level="50" sens="2247" pass="1387" stam="2947" wis="1399"/>
-    <card member="jin" name="안경 미남" id="3006" type="감성" star="3" level="50" sens="2485" pass="1778" stam="1827" wis="1806"/>
-    <card member="jin" name="널 생각해" id="3007" type="열정" star="3" level="50" sens="1942" pass="3255" stam="1387" wis="1407"/>
-    <card member="jin" name="서프라이즈" id="3008" type="체력" star="3" level="50" sens="1295" pass="1267" stam="3395" wis="1967"/>
-    <card member="jin" name="열일하는 남자" id="3009" type="지혜" star="3" level="50" sens="2359" pass="1399" stam="1407" wis="2757"/>
-    <card member="jin" name="심각해" id="3010" type="감성" star="3" level="50" sens="2485" pass="1806" stam="1827" wis="1778"/>
-    <card member="jin" name="꽃보다 석진" id="3011" type="열정" star="3" level="50" sens="1908" pass="2639" stam="1670" wis="1687"/>
-    <card member="jin" name="하늘을 봐" id="3012" type="지혜" star="3" level="50" sens="1908" pass="1407" stam="1399" wis="3255"/>
-    <card member="jin" name="빵야" id="3013" type="체력" star="3" level="50" sens="1407" pass="1942" stam="3255" wis="1387"/>
-    <card member="jin" name="함박 웃음" id="3014" type="지혜" star="3" level="50" sens="1263" pass="1967" stam="1257" wis="3563"/>
-    <card member="suga" name="건반 위의 민애옹" id="5001" type="감성" star="5" level="50" sens="4005" pass="2550" stam="1830" wis="1830"/>
-    <card member="suga" name="반짝반짝" id="5002" type="열정" star="5" level="50" sens="1830" pass="4185" stam="2518" wis="1805"/>
-    <card member="suga" name="도서관 옆자리" id="5003" type="지혜" star="5" level="50" sens="2518" pass="2190" stam="2110" wis="3393"/>
-    <card member="suga" name="결전의 순간" id="5004" type="체력" star="5" level="50" sens="3054" pass="1819" stam="3645" wis="1805"/>
-    <card member="suga" name="꿈나라 슈가" id="5005" type="체력" star="5" level="50" sens="2010" pass="2622" stam="3670" wis="1972"/>
-    <card member="suga" name="로맨틱 슈가" id="5006" type="체력" star="5" level="50" sens="2550" pass="1866" stam="3951" wis="1805"/>
-    <card member="suga" name="FAKE LOVE 슈가" id="5007" type="열정" star="5" level="50" sens="2518" pass="3285" stam="1805" wis="2658"/>
-    <card member="suga" name="레드카펫 슈가" id="5008" type="지혜" star="5" level="50" sens="1668" pass="2518" stam="1650" wis="4214"/>
-    <card member="suga" name="여름 소년 슈가" id="5009" type="감성" star="5" level="50" sens="3789" pass="2518" stam="2190" wis="1805"/>
-    <card member="suga" name="메트로놈" id="4001" type="감성" star="4" level="50" sens="2804" pass="1914" stam="2205" wis="1978"/>
-    <card member="suga" name="백설탕" id="4002" type="열정" star="4" level="50" sens="1572" pass="3319" stam="2205" wis="1914"/>
-    <card member="suga" name="나비 넥타이" id="4003" type="체력" star="4" level="50" sens="1594" pass="2234" stam="3511" wis="1594"/>
-    <card member="suga" name="피아니스트" id="4004" type="열정" star="4" level="50" sens="2554" pass="3319" stam="1584" wis="1572"/>
-    <card member="suga" name="가을 편지" id="4005" type="체력" star="4" level="50" sens="1584" pass="2554" stam="3101" wis="1626"/>
-    <card member="suga" name="고민 고민" id="4006" type="지혜" star="4" level="50" sens="1978" pass="2205" stam="1594" wis="3101"/>
-    <card member="suga" name="금발 비니" id="4007" type="열정" star="4" level="50" sens="2256" pass="3213" stam="1740" wis="1754"/>
-    <card member="suga" name="슈가 래빗" id="4008" type="지혜" star="4" level="50" sens="1572" pass="2682" stam="1584" wis="3191"/>
-    <card member="suga" name="나른 벨벳" id="4009" type="체력" star="4" level="50" sens="2234" pass="1594" stam="3191" wis="1914"/>
-    <card member="suga" name="하얀 미소" id="4010" type="지혜" star="4" level="50" sens="1429" pass="1434" stam="2167" wis="4023"/>
-    <card member="suga" name="눈꽃 소년" id="4011" type="감성" star="4" level="50" sens="3319" pass="1584" stam="2554" wis="1572"/>
-    <card member="suga" name="민슈가천재" id="3001" type="체력" star="3" level="50" sens="1407" pass="1687" stam="2835" wis="1967"/>
-    <card member="suga" name="오다 주운 하트" id="3002" type="감성" star="3" level="50" sens="2835" pass="1407" stam="1967" wis="1687"/>
-    <card member="suga" name="설렘" id="3003" type="열정" star="3" level="50" sens="1967" pass="2639" stam="1670" wis="1648"/>
-    <card member="suga" name="슈팅 가드" id="3004" type="체력" star="3" level="50" sens="1407" pass="1908" stam="3255" wis="1399"/>
-    <card member="suga" name="빨간 비니" id="3005" type="지혜" star="3" level="50" sens="1267" pass="2051" stam="1263" wis="3277"/>
-    <card member="suga" name="안경 선배" id="3006" type="열정" star="3" level="50" sens="1897" pass="2394" stam="1827" wis="1778"/>
-    <card member="suga" name="사색의 시간" id="3007" type="열정" star="3" level="50" sens="1967" pass="2639" stam="1648" wis="1670"/>
-    <card member="suga" name="소원" id="3008" type="체력" star="3" level="50" sens="1407" pass="1407" stam="3115" wis="1967"/>
-    <card member="suga" name="가을 남자" id="3009" type="지혜" star="3" level="50" sens="1908" pass="1267" stam="1263" wis="3563"/>
-    <card member="suga" name="열병" id="3010" type="감성" star="3" level="50" sens="2485" pass="1778" stam="1827" wis="1806"/>
-    <card member="suga" name="아티스트" id="3011" type="열정" star="3" level="50" sens="1670" pass="2639" stam="1908" wis="1687"/>
-    <card member="suga" name="야호" id="3012" type="감성" star="3" level="50" sens="2485" pass="1806" stam="1827" wis="1778"/>
-    <card member="suga" name="접근 금지" id="3013" type="체력" star="3" level="50" sens="2247" pass="1387" stam="2947" wis="1399"/>
-    <card member="suga" name="소중한 나" id="3014" type="지혜" star="3" level="50" sens="1407" pass="1435" stam="1908" wis="3073"/>
-    <card member="jhope" name="미소천사" id="5001" type="감성" star="5" level="50" sens="3951" pass="2658" stam="1805" wis="1830"/>
-    <card member="jhope" name="친구야 놀자" id="5002" type="열정" star="5" level="50" sens="1830" pass="4185" stam="2518" wis="1805"/>
-    <card member="jhope" name="흰 가운의 천사" id="5003" type="열정" star="5" level="50" sens="2867" pass="3645" stam="1805" wis="1866"/>
-    <card member="jhope" name="투명 우산" id="5004" type="감성" star="5" level="50" sens="3393" pass="2518" stam="2190" wis="2140"/>
-    <card member="jhope" name="꿈나라 제이홉" id="5005" type="지혜" star="5" level="50" sens="1994" pass="2658" stam="1972" wis="3670"/>
-    <card member="jhope" name="로맨틱 제이홉" id="5006" type="체력" star="5" level="50" sens="2518" pass="1866" stam="3879" wis="1830"/>
-    <card member="jhope" name="FAKE LOVE 제이홉" id="5007" type="열정" star="5" level="50" sens="1830" pass="3393" stam="2518" wis="2474"/>
-    <card member="jhope" name="레드카펫 제이홉" id="5008" type="지혜" star="5" level="50" sens="1645" pass="1650" stam="2474" wis="4581"/>
-    <card member="jhope" name="여름 소년 제이홉" id="5009" type="지혜" star="5" level="50" sens="2474" pass="2190" stam="1819" wis="3789"/>
-    <card member="jhope" name="예뻐 예뻐" id="4001" type="감성" star="4" level="50" sens="3153" pass="1626" stam="1869" wis="2234"/>
-    <card member="jhope" name="앉아, 기다려" id="4002" type="열정" star="4" level="50" sens="1594" pass="3671" stam="2167" wis="1584"/>
-    <card member="jhope" name="참 잘했어요" id="4003" type="체력" star="4" level="50" sens="2464" pass="1594" stam="3153" wis="1626"/>
-    <card member="jhope" name="닥터 홉" id="4004" type="지혜" star="4" level="50" sens="1572" pass="1626" stam="2516" wis="3191"/>
-    <card member="jhope" name="조별 과제" id="4005" type="감성" star="4" level="50" sens="2967" pass="1869" stam="1914" wis="2205"/>
-    <card member="jhope" name="에라 모르겠다" id="4006" type="체력" star="4" level="50" sens="1914" pass="1626" stam="3153" wis="2167"/>
-    <card member="jhope" name="악동" id="4007" type="감성" star="4" level="50" sens="3213" pass="2256" stam="1754" wis="1740"/>
-    <card member="jhope" name="선택과 집중" id="4008" type="열정" star="4" level="50" sens="1594" pass="3319" stam="1572" wis="2516"/>
-    <card member="jhope" name="힙합 희망" id="4009" type="지혜" star="4" level="50" sens="1869" pass="2234" stam="1584" wis="3319"/>
-    <card member="jhope" name="첫 인사" id="4010" type="감성" star="4" level="50" sens="3399" pass="2330" stam="1584" wis="1594"/>
-    <card member="jhope" name="황금빛 오후" id="4011" type="체력" star="4" level="50" sens="2234" pass="1594" stam="3511" wis="1594"/>
-    <card member="jhope" name="가위 바위 보" id="3001" type="열정" star="3" level="50" sens="1435" pass="2757" stam="1687" wis="1942"/>
-    <card member="jhope" name="호잇호잇" id="3002" type="지혜" star="3" level="50" sens="1399" pass="2051" stam="1648" wis="2835"/>
-    <card member="jhope" name="앞으로 앞으로" id="3003" type="체력" star="3" level="50" sens="1967" pass="1648" stam="2639" wis="1670"/>
-    <card member="jhope" name="고백" id="3004" type="지혜" star="3" level="50" sens="1435" pass="1399" stam="1967" wis="3017"/>
-    <card member="jhope" name="캐주얼 데이" id="3005" type="감성" star="3" level="50" sens="3395" pass="1267" stam="1267" wis="1967"/>
-    <card member="jhope" name="스마일 호야" id="3006" type="열정" star="3" level="50" sens="1387" pass="2947" stam="1399" wis="2247"/>
-    <card member="jhope" name="댄디 가이" id="3007" type="감성" star="3" level="50" sens="2485" pass="1806" stam="1827" wis="1778"/>
-    <card member="jhope" name="너만을 위한 랩" id="3008" type="열정" star="3" level="50" sens="1967" pass="2639" stam="1670" wis="1648"/>
-    <card member="jhope" name="고민 상담" id="3009" type="체력" star="3" level="50" sens="1407" pass="1967" stam="3115" wis="1407"/>
-    <card member="jhope" name="희망찬 발걸음" id="3010" type="지혜" star="3" level="50" sens="1263" pass="1967" stam="1257" wis="3563"/>
-    <card member="jhope" name="잘했어" id="3011" type="감성" star="3" level="50" sens="2485" pass="1778" stam="1827" wis="1806"/>
-    <card member="jhope" name="깡충깡충" id="3012" type="체력" star="3" level="50" sens="1687" pass="2051" stam="2496" wis="1670"/>
-    <card member="jhope" name="오늘도 힘차게" id="3013" type="체력" star="3" level="50" sens="1407" pass="1407" stam="3115" wis="1967"/>
-    <card member="jhope" name="아잉" id="3014" type="지혜" star="3" level="50" sens="1967" pass="1267" stam="1267" wis="3395"/>
-    <card member="jimin" name="나 홀로 연습실" id="5001" type="감성" star="5" level="50" sens="3951" pass="2658" stam="1805" wis="1830"/>
-    <card member="jimin" name="춤추는 망개떡" id="5002" type="열정" star="5" level="50" sens="1830" pass="4185" stam="2518" wis="1805"/>
-    <card member="jimin" name="세계 최고 검객" id="5003" type="지혜" star="5" level="50" sens="2867" pass="1830" stam="1805" wis="3789"/>
-    <card member="jimin" name="밤 산책" id="5004" type="체력" star="5" level="50" sens="2550" pass="2140" stam="3393" wis="2168"/>
-    <card member="jimin" name="꿈나라 지민" id="5005" type="체력" star="5" level="50" sens="2010" pass="2622" stam="3670" wis="1972"/>
-    <card member="jimin" name="로맨틱 지민" id="5006" type="체력" star="5" level="50" sens="2518" pass="1830" stam="3879" wis="1866"/>
-    <card member="jimin" name="FAKE LOVE 지민" id="5007" type="지혜" star="5" level="50" sens="2658" pass="1819" stam="2550" wis="3209"/>
-    <card member="jimin" name="레드카펫 지민" id="5008" type="지혜" star="5" level="50" sens="1645" pass="2658" stam="1637" wis="4365"/>
-    <card member="jimin" name="여름 소년 지민" id="5009" type="체력" star="5" level="50" sens="2550" pass="1805" stam="3789" wis="2168"/>
-    <card member="jimin" name="플레이리스트" id="4001" type="감성" star="4" level="50" sens="3191" pass="1594" stam="1914" wis="2234"/>
-    <card member="jimin" name="눈맞춤" id="4002" type="열정" star="4" level="50" sens="1434" pass="4023" stam="1429" wis="2167"/>
-    <card member="jimin" name="검도 꿈나무" id="4003" type="감성" star="4" level="50" sens="3319" pass="2516" stam="1594" wis="1572"/>
-    <card member="jimin" name="사소한 고민" id="4004" type="열정" star="4" level="50" sens="1584" pass="3319" stam="2464" wis="1594"/>
-    <card member="jimin" name="졸려요" id="4005" type="체력" star="4" level="50" sens="1914" pass="1626" stam="3101" wis="2205"/>
-    <card member="jimin" name="코튼 향기" id="4006" type="감성" star="4" level="50" sens="3213" pass="2298" stam="1754" wis="1720"/>
-    <card member="jimin" name="비밀 레시피" id="4007" type="체력" star="4" level="50" sens="1594" pass="1594" stam="3191" wis="2554"/>
-    <card member="jimin" name="귀여운 파티시에" id="4008" type="지혜" star="4" level="50" sens="1895" pass="1914" stam="2167" wis="2967"/>
-    <card member="jimin" name="수줍은 파티시에" id="4009" type="지혜" star="4" level="50" sens="1895" pass="2234" stam="1572" wis="3319"/>
-    <card member="jimin" name="러블리 파티시에" id="4010" type="감성" star="4" level="50" sens="3671" pass="1584" stam="2234" wis="1572"/>
-    <card member="jimin" name="성장통" id="4011" type="지혜" star="4" level="50" sens="1429" pass="1450" stam="2167" wis="3831"/>
-    <card member="jimin" name="동작 그만" id="3001" type="지혜" star="3" level="50" sens="1435" pass="1670" stam="1967" wis="2757"/>
-    <card member="jimin" name="손하트" id="3002" type="감성" star="3" level="50" sens="2835" pass="1435" stam="1942" wis="1648"/>
-    <card member="jimin" name="여기 여기" id="3003" type="감성" star="3" level="50" sens="2485" pass="1778" stam="1827" wis="1806"/>
-    <card member="jimin" name="큐피드" id="3004" type="감성" star="3" level="50" sens="2555" pass="1967" stam="1687" wis="1687"/>
-    <card member="jimin" name="휘핑크림" id="3005" type="체력" star="3" level="50" sens="1407" pass="1908" stam="3255" wis="1399"/>
-    <card member="jimin" name="비타민 요정" id="3006" type="열정" star="3" level="50" sens="1267" pass="3563" stam="1908" wis="1263"/>
-    <card member="jimin" name="어흥" id="3007" type="열정" star="3" level="50" sens="1942" pass="2639" stam="1648" wis="1687"/>
-    <card member="jimin" name="환한 미소" id="3008" type="체력" star="3" level="50" sens="1967" pass="1407" stam="3115" wis="1407"/>
-    <card member="jimin" name="수줍은 고백" id="3009" type="지혜" star="3" level="50" sens="1263" pass="1281" stam="1908" wis="3395"/>
-    <card member="jimin" name="심장 저격" id="3010" type="감성" star="3" level="50" sens="2947" pass="1399" stam="1407" wis="2169"/>
-    <card member="jimin" name="할 말 있어" id="3011" type="열정" star="3" level="50" sens="1908" pass="3255" stam="1399" wis="1307"/>
-    <card member="jimin" name="떨림" id="3012" type="지혜" star="3" level="50" sens="1399" pass="1407" stam="2169" wis="2947"/>
-    <card member="jimin" name="환영해" id="3013" type="체력" star="3" level="50" sens="1267" pass="1967" stam="3395" wis="1267"/>
-    <card member="jimin" name="흥" id="3014" type="지혜" star="3" level="50" sens="1267" pass="1267" stam="1967" wis="3395"/>
-    <card member="v" name="윙크" id="5001" type="감성" star="5" level="50" sens="4005" pass="2658" stam="1819" wis="1805"/>
-    <card member="v" name="척척박사" id="5002" type="열정" star="5" level="50" sens="1819" pass="4005" stam="2474" wis="1866"/>
-    <card member="v" name="보라해" id="5003" type="열정" star="5" level="50" sens="2518" pass="3393" stam="2140" wis="2190"/>
-    <card member="v" name="과수원 소년" id="5004" type="체력" star="5" level="50" sens="2867" pass="1866" stam="3544" wis="1830"/>
-    <card member="v" name="꿈나라 뷔" id="5005" type="지혜" star="5" level="50" sens="1972" pass="2658" stam="1994" wis="3670"/>
-    <card member="v" name="로맨틱 뷔" id="5006" type="체력" star="5" level="50" sens="2658" pass="1805" stam="4005" wis="1819"/>
-    <card member="v" name="FAKE LOVE 뷔" id="5007" type="체력" star="5" level="50" sens="1819" pass="2658" stam="3209" wis="2550"/>
-    <card member="v" name="레드카펫 뷔" id="5008" type="지혜" star="5" level="50" sens="1637" pass="1668" stam="2518" wis="4365"/>
-    <card member="v" name="여름 소년 뷔" id="5009" type="지혜" star="5" level="50" sens="2474" pass="1830" stam="2168" wis="3789"/>
-    <card member="v" name="비주얼 쇼크" id="4001" type="감성" star="4" level="50" sens="3191" pass="1626" stam="1869" wis="2205"/>
-    <card member="v" name="태태 실험실" id="4002" type="열정" star="4" level="50" sens="2234" pass="3511" stam="1594" wis="1594"/>
-    <card member="v" name="명석 안경" id="4003" type="체력" star="4" level="50" sens="1434" pass="2330" stam="3773" wis="1423"/>
-    <card member="v" name="벚꽃 오프닝" id="4004" type="열정" star="4" level="50" sens="2516" pass="3191" stam="1572" wis="1626"/>
-    <card member="v" name="식사를 합시다" id="4005" type="체력" star="4" level="50" sens="1626" pass="2516" stam="3191" wis="1572"/>
-    <card member="v" name="이불 밖은 위험해" id="4006" type="지혜" star="4" level="50" sens="1895" pass="2330" stam="1572" wis="3191"/>
-    <card member="v" name="어디 보자" id="4007" type="체력" star="4" level="50" sens="2330" pass="1740" stam="3213" wis="1720"/>
-    <card member="v" name="토마토 풍년" id="4008" type="지혜" star="4" level="50" sens="1895" pass="2234" stam="1869" wis="2967"/>
-    <card member="v" name="홈 파티" id="4009" type="열정" star="4" level="50" sens="1450" pass="3773" stam="2234" wis="1423"/>
-    <card member="v" name="휴식" id="4010" type="감성" star="4" level="50" sens="3153" pass="1626" stam="1572" wis="2554"/>
-    <card member="v" name="새벽 감성" id="4011" type="체력" star="4" level="50" sens="2234" pass="1914" stam="3191" wis="1594"/>
-    <card member="v" name="치명치명" id="3001" type="체력" star="3" level="50" sens="1435" pass="1648" stam="2835" wis="1942"/>
-    <card member="v" name="내 맘 알지" id="3002" type="열정" star="3" level="50" sens="1387" pass="2947" stam="1942" wis="1687"/>
-    <card member="v" name="기념일" id="3003" type="지혜" star="3" level="50" sens="1407" pass="2051" stam="1399" wis="3017"/>
-    <card member="v" name="농구 천재" id="3004" type="열정" star="3" level="50" sens="1897" pass="2394" stam="1827" wis="1778"/>
-    <card member="v" name="낮잠이 필요해" id="3005" type="열정" star="3" level="50" sens="1687" pass="2555" stam="1687" wis="1967"/>
-    <card member="v" name="일할 시간" id="3006" type="체력" star="3" level="50" sens="1295" pass="1257" stam="3563" wis="1942"/>
-    <card member="v" name="뷔주얼" id="3007" type="열정" star="3" level="50" sens="1967" pass="2639" stam="1670" wis="1648"/>
-    <card member="v" name="널 보면 심쿵" id="3008" type="체력" star="3" level="50" sens="1407" pass="1967" stam="2835" wis="1687"/>
-    <card member="v" name="열창" id="3009" type="지혜" star="3" level="50" sens="1399" pass="1407" stam="1908" wis="3255"/>
-    <card member="v" name="얘기 좀 해" id="3010" type="감성" star="3" level="50" sens="3563" pass="1257" stam="1967" wis="1263"/>
-    <card member="v" name="저런 저런" id="3011" type="열정" star="3" level="50" sens="1387" pass="2639" stam="1908" wis="1670"/>
-    <card member="v" name="인사" id="3012" type="감성" star="3" level="50" sens="2947" pass="1399" stam="2247" wis="1387"/>
-    <card member="v" name="울먹울먹" id="3013" type="체력" star="3" level="50" sens="1295" pass="1263" stam="3563" wis="1908"/>
-    <card member="v" name="내 입에 캔디" id="3014" type="지혜" star="3" level="50" sens="1263" pass="1281" stam="1908" wis="3395"/>
-    <card member="jungkook" name="국가대표" id="5001" type="감성" star="5" level="50" sens="3879" pass="2550" stam="1819" wis="1866"/>
-    <card member="jungkook" name="이름은 정국" id="5002" type="감성" star="5" level="50" sens="3253" pass="2658" stam="2140" wis="2190"/>
-    <card member="jungkook" name="매점 가는 길" id="5003" type="열정" star="5" level="50" sens="3054" pass="3544" stam="1830" wis="1819"/>
-    <card member="jungkook" name="황금막내" id="5004" type="열정" star="5" level="50" sens="1819" pass="4185" stam="2474" wis="1830"/>
-    <card member="jungkook" name="꿈나라 정국" id="5005" type="열정" star="5" level="50" sens="1972" pass="3670" stam="2622" wis="2010"/>
-    <card member="jungkook" name="로맨틱 정국" id="5006" type="체력" star="5" level="50" sens="2518" pass="1866" stam="3879" wis="1830"/>
-    <card member="jungkook" name="FAKE LOVE 정국" id="5007" type="열정" star="5" level="50" sens="2474" pass="3393" stam="2518" wis="1830"/>
-    <card member="jungkook" name="레드카펫 정국" id="5008" type="지혜" star="5" level="50" sens="2658" pass="1637" stam="1650" wis="4300"/>
-    <card member="jungkook" name="여름 소년 정국" id="5009" type="열정" star="5" level="50" sens="2474" pass="3789" stam="1819" wis="2190"/>
-    <card member="jungkook" name="태권 소년" id="4001" type="감성" star="4" level="50" sens="3511" pass="1626" stam="2205" wis="1572"/>
-    <card member="jungkook" name="검은 띠" id="4002" type="체력" star="4" level="50" sens="2516" pass="1594" stam="3101" wis="1626"/>
-    <card member="jungkook" name="햇살 가득" id="4003" type="열정" star="4" level="50" sens="1450" pass="3773" stam="1434" wis="2167"/>
-    <card member="jungkook" name="명랑소년" id="4004" type="지혜" star="4" level="50" sens="1584" pass="1626" stam="2464" wis="3191"/>
-    <card member="jungkook" name="신나" id="4005" type="감성" star="4" level="50" sens="3191" pass="1626" stam="1572" wis="2516"/>
-    <card member="jungkook" name="멍 때리기" id="4006" type="체력" star="4" level="50" sens="1914" pass="1594" stam="3191" wis="2234"/>
-    <card member="jungkook" name="보드게임 시간" id="4007" type="열정" star="4" level="50" sens="2298" pass="3213" stam="1720" wis="1754"/>
-    <card member="jungkook" name="봄바람" id="4008" type="열정" star="4" level="50" sens="2205" pass="2967" stam="1869" wis="1914"/>
-    <card member="jungkook" name="시합 5분 전" id="4009" type="지혜" star="4" level="50" sens="1914" pass="2330" stam="1572" wis="3153"/>
-    <card member="jungkook" name="정면승부" id="4010" type="감성" star="4" level="50" sens="3831" pass="2234" stam="1434" wis="1434"/>
-    <card member="jungkook" name="작가의 독서" id="4011" type="열정" star="4" level="50" sens="2205" pass="3191" stam="1869" wis="1626"/>
-    <card member="jungkook" name="이동 수업" id="3001" type="열정" star="3" level="50" sens="1435" pass="2801" stam="1687" wis="1908"/>
-    <card member="jungkook" name="아 빠이팅" id="3002" type="체력" star="3" level="50" sens="1399" pass="2051" stam="2757" wis="1687"/>
-    <card member="jungkook" name="몰라 몰라" id="3003" type="체력" star="3" level="50" sens="1897" pass="1778" stam="2415" wis="1806"/>
-    <card member="jungkook" name="멍뭉미" id="3004" type="체력" star="3" level="50" sens="1687" pass="1908" stam="2639" wis="1670"/>
-    <card member="jungkook" name="하얀 마음" id="3005" type="감성" star="3" level="50" sens="3255" pass="1399" stam="1967" wis="1387"/>
-    <card member="jungkook" name="동글동글" id="3006" type="지혜" star="3" level="50" sens="1263" pass="1267" stam="1908" wis="3563"/>
-    <card member="jungkook" name="깊은 고민" id="3007" type="열정" star="3" level="50" sens="1908" pass="2639" stam="1670" wis="1687"/>
-    <card member="jungkook" name="토끼 소년" id="3008" type="체력" star="3" level="50" sens="1687" pass="1407" stam="2835" wis="1967"/>
-    <card member="jungkook" name="나만 봐" id="3009" type="지혜" star="3" level="50" sens="1967" pass="1435" stam="1399" wis="3017"/>
-    <card member="jungkook" name="널 담는 시간" id="3010" type="감성" star="3" level="50" sens="2485" pass="1778" stam="1827" wis="1806"/>
-    <card member="jungkook" name="진지한 눈빛" id="3011" type="열정" star="3" level="50" sens="1942" pass="3563" stam="1257" wis="1267"/>
-    <card member="jungkook" name="귀염둥이" id="3012" type="열정" star="3" level="50" sens="1908" pass="3255" stam="1399" wis="1407"/>
-    <card member="jungkook" name="거기 너" id="3013" type="체력" star="3" level="50" sens="1967" pass="1648" stam="2639" wis="1670"/>
-    <card member="jungkook" name="하나 둘" id="3014" type="지혜" star="3" level="50" sens="1263" pass="1967" stam="1257" wis="3563"/>
+    <card member="rm" name="명탐정" id="5001" type="감성" star="5" level="50" empa="4185" pass="2518" stam="1830" wis="1805"/>
+    <card member="rm" name="웃어 봐" id="5002" type="열정" star="5" level="50" empa="1819" pass="4185" stam="2474" wis="1830"/>
+    <card member="rm" name="클래식" id="5003" type="열정" star="5" level="50" empa="2550" pass="3393" stam="2168" wis="2140"/>
+    <card member="rm" name="프로페셔널" id="5004" type="감성" star="5" level="50" empa="3602" pass="2910" stam="1805" wis="1866"/>
+    <card member="rm" name="꿈나라 RM" id="5005" type="감성" star="5" level="50" empa="3670" pass="1994" stam="2658" wis="1972"/>
+    <card member="rm" name="로맨틱 RM" id="5006" type="체력" star="5" level="50" empa="2550" pass="1866" stam="3951" wis="1805"/>
+    <card member="rm" name="FAKE LOVE RM" id="5007" type="감성" star="5" level="50" empa="3253" pass="2550" stam="2474" wis="1866"/>
+    <card member="rm" name="레드카펫 RM" id="5008" type="지혜" star="5" level="50" empa="2658" pass="1645" stam="1650" wis="4214"/>
+    <card member="rm" name="여름 소년 RM" id="5009" type="열정" star="5" level="50" empa="2474" pass="3789" stam="2168" wis="1830"/>
+    <card member="rm" name="셜록 남준" id="4001" type="지혜" star="4" level="50" empa="2516" pass="1594" stam="1572" wis="3319"/>
+    <card member="rm" name="증거 수집" id="4002" type="감성" star="4" level="50" empa="2967" pass="2205" stam="1914" wis="1869"/>
+    <card member="rm" name="결정적 단서" id="4003" type="열정" star="4" level="50" empa="1584" pass="3319" stam="2167" wis="1914"/>
+    <card member="rm" name="트렌치 코트" id="4004" type="감성" star="4" level="50" empa="3191" pass="1626" stam="2464" wis="1584"/>
+    <card member="rm" name="보조개 미남" id="4005" type="열정" star="4" level="50" empa="1572" pass="3191" stam="1584" wis="2682"/>
+    <card member="rm" name="김데일리" id="4006" type="체력" star="4" level="50" empa="1869" pass="1626" stam="3153" wis="2234"/>
+    <card member="rm" name="빨간 실" id="4007" type="지혜" star="4" level="50" empa="2256" pass="1754" stam="1740" wis="3213"/>
+    <card member="rm" name="비 온 뒤 맑음" id="4008" type="체력" star="4" level="50" empa="2682" pass="1584" stam="3191" wis="1572"/>
+    <card member="rm" name="아지트" id="4009" type="지혜" star="4" level="50" empa="1895" pass="2330" stam="1572" wis="3191"/>
+    <card member="rm" name="생일 파티" id="4010" type="열정" star="4" level="50" empa="1594" pass="3671" stam="2167" wis="1584"/>
+    <card member="rm" name="소년 탐정" id="4011" type="지혜" star="4" level="50" empa="1423" pass="2330" stam="1429" wis="3831"/>
+    <card member="rm" name="사랑 사랑 사랑" id="3001" type="감성" star="3" level="50" empa="2947" pass="1399" stam="1687" wis="1908"/>
+    <card member="rm" name="고민하지 마" id="3002" type="체력" star="3" level="50" empa="1399" pass="2051" stam="2757" wis="1687"/>
+    <card member="rm" name="널 만나러 가" id="3003" type="지혜" star="3" level="50" empa="1967" pass="1743" stam="1648" wis="2530"/>
+    <card member="rm" name="꽃길만 걷자" id="3004" type="감성" star="3" level="50" empa="3255" pass="1387" stam="1967" wis="1399"/>
+    <card member="rm" name="스트레칭" id="3005" type="지혜" star="3" level="50" empa="1897" pass="1778" stam="1827" wis="2394"/>
+    <card member="rm" name="김남준 아님 RM" id="3006" type="열정" star="3" level="50" empa="1257" pass="3563" stam="1263" wis="1967"/>
+    <card member="rm" name="당연하지" id="3007" type="열정" star="3" level="50" empa="1942" pass="2639" stam="1648" wis="1687"/>
+    <card member="rm" name="용서해 줘" id="3008" type="체력" star="3" level="50" empa="1407" pass="1387" stam="3255" wis="1942"/>
+    <card member="rm" name="흐뭇한 미소" id="3009" type="지혜" star="3" level="50" empa="1967" pass="1281" stam="1257" wis="3345"/>
+    <card member="rm" name="딴 생각" id="3010" type="감성" star="3" level="50" empa="2947" pass="1399" stam="2247" wis="1387"/>
+    <card member="rm" name="힐끗" id="3011" type="열정" star="3" level="50" empa="1648" pass="2639" stam="1942" wis="1687"/>
+    <card member="rm" name="합격" id="3012" type="체력" star="3" level="50" empa="1967" pass="1399" stam="3255" wis="1387"/>
+    <card member="rm" name="예쁜 짓" id="3013" type="체력" star="3" level="50" empa="1267" pass="1908" stam="3563" wis="1263"/>
+    <card member="rm" name="영감이 떠올라" id="3014" type="지혜" star="3" level="50" empa="1967" pass="1743" stam="1670" wis="2496"/>
+    <card member="jin" name="미남이시네요" id="5001" type="감성" star="5" level="50" empa="4185" pass="2518" stam="1830" wis="1805"/>
+    <card member="jin" name="월드와이드핸섬" id="5002" type="체력" star="5" level="50" empa="2550" pass="2168" stam="3393" wis="2140"/>
+    <card member="jin" name="출근 준비" id="5003" type="열정" star="5" level="50" empa="1830" pass="4185" stam="2474" wis="1819"/>
+    <card member="jin" name="잘 부탁드립니다" id="5004" type="지혜" star="5" level="50" empa="2910" pass="1830" stam="1830" wis="3645"/>
+    <card member="jin" name="꿈나라 진" id="5005" type="열정" star="5" level="50" empa="1994" pass="3670" stam="2575" wis="2010"/>
+    <card member="jin" name="로맨틱 진" id="5006" type="체력" star="5" level="50" empa="2658" pass="1819" stam="4005" wis="1805"/>
+    <card member="jin" name="FAKE LOVE 진" id="5007" type="지혜" star="5" level="50" empa="2518" pass="2658" stam="1805" wis="3285"/>
+    <card member="jin" name="레드카펫 진" id="5008" type="지혜" star="5" level="50" empa="2550" pass="1668" stam="1637" wis="4300"/>
+    <card member="jin" name="여름 소년 진" id="5009" type="체력" star="5" level="50" empa="2550" pass="2140" stam="3789" wis="1819"/>
+    <card member="jin" name="미모 열일" id="4001" type="감성" star="4" level="50" empa="2967" pass="2167" stam="1914" wis="1895"/>
+    <card member="jin" name="특급 서비스" id="4002" type="감성" star="4" level="50" empa="3191" pass="1584" stam="1978" wis="2167"/>
+    <card member="jin" name="꽃을 든 남자" id="4003" type="열정" star="4" level="50" empa="1594" pass="3101" stam="2330" wis="1895"/>
+    <card member="jin" name="방긋 미소" id="4004" type="열정" star="4" level="50" empa="1584" pass="3191" stam="2464" wis="1626"/>
+    <card member="jin" name="너무 달콤해" id="4005" type="체력" star="4" level="50" empa="1626" pass="1572" stam="3191" wis="2516"/>
+    <card member="jin" name="어깨 미남" id="4006" type="체력" star="4" level="50" empa="1914" pass="1584" stam="3319" wis="2167"/>
+    <card member="jin" name="생각에 빠진" id="4007" type="체력" star="4" level="50" empa="2330" pass="1720" stam="3213" wis="1740"/>
+    <card member="jin" name="언더커버" id="4008" type="지혜" star="4" level="50" empa="2554" pass="1626" stam="1584" wis="3101"/>
+    <card member="jin" name="혼자만의 시간" id="4009" type="지혜" star="4" level="50" empa="1584" pass="2234" stam="1572" wis="3671"/>
+    <card member="jin" name="오후의 휴식" id="4010" type="감성" star="4" level="50" empa="3773" pass="2330" stam="1423" wis="1434"/>
+    <card member="jin" name="올해의 남자" id="4011" type="열정" star="4" level="50" empa="1434" pass="4023" stam="2167" wis="1429"/>
+    <card member="jin" name="손키스" id="3001" type="지혜" star="3" level="50" empa="1407" pass="1687" stam="1967" wis="2835"/>
+    <card member="jin" name="하트 뿅" id="3002" type="열정" star="3" level="50" empa="1399" pass="2947" stam="1908" wis="1687"/>
+    <card member="jin" name="포근해" id="3003" type="감성" star="3" level="50" empa="2639" pass="1942" stam="1687" wis="1648"/>
+    <card member="jin" name="좋아요" id="3004" type="열정" star="3" level="50" empa="1648" pass="2639" stam="1670" wis="1967"/>
+    <card member="jin" name="자유시간" id="3005" type="체력" star="3" level="50" empa="2247" pass="1387" stam="2947" wis="1399"/>
+    <card member="jin" name="안경 미남" id="3006" type="감성" star="3" level="50" empa="2485" pass="1778" stam="1827" wis="1806"/>
+    <card member="jin" name="널 생각해" id="3007" type="열정" star="3" level="50" empa="1942" pass="3255" stam="1387" wis="1407"/>
+    <card member="jin" name="서프라이즈" id="3008" type="체력" star="3" level="50" empa="1295" pass="1267" stam="3395" wis="1967"/>
+    <card member="jin" name="열일하는 남자" id="3009" type="지혜" star="3" level="50" empa="2359" pass="1399" stam="1407" wis="2757"/>
+    <card member="jin" name="심각해" id="3010" type="감성" star="3" level="50" empa="2485" pass="1806" stam="1827" wis="1778"/>
+    <card member="jin" name="꽃보다 석진" id="3011" type="열정" star="3" level="50" empa="1908" pass="2639" stam="1670" wis="1687"/>
+    <card member="jin" name="하늘을 봐" id="3012" type="지혜" star="3" level="50" empa="1908" pass="1407" stam="1399" wis="3255"/>
+    <card member="jin" name="빵야" id="3013" type="체력" star="3" level="50" empa="1407" pass="1942" stam="3255" wis="1387"/>
+    <card member="jin" name="함박 웃음" id="3014" type="지혜" star="3" level="50" empa="1263" pass="1967" stam="1257" wis="3563"/>
+    <card member="suga" name="건반 위의 민애옹" id="5001" type="감성" star="5" level="50" empa="4005" pass="2550" stam="1830" wis="1830"/>
+    <card member="suga" name="반짝반짝" id="5002" type="열정" star="5" level="50" empa="1830" pass="4185" stam="2518" wis="1805"/>
+    <card member="suga" name="도서관 옆자리" id="5003" type="지혜" star="5" level="50" empa="2518" pass="2190" stam="2110" wis="3393"/>
+    <card member="suga" name="결전의 순간" id="5004" type="체력" star="5" level="50" empa="3054" pass="1819" stam="3645" wis="1805"/>
+    <card member="suga" name="꿈나라 슈가" id="5005" type="체력" star="5" level="50" empa="2010" pass="2622" stam="3670" wis="1972"/>
+    <card member="suga" name="로맨틱 슈가" id="5006" type="체력" star="5" level="50" empa="2550" pass="1866" stam="3951" wis="1805"/>
+    <card member="suga" name="FAKE LOVE 슈가" id="5007" type="열정" star="5" level="50" empa="2518" pass="3285" stam="1805" wis="2658"/>
+    <card member="suga" name="레드카펫 슈가" id="5008" type="지혜" star="5" level="50" empa="1668" pass="2518" stam="1650" wis="4214"/>
+    <card member="suga" name="여름 소년 슈가" id="5009" type="감성" star="5" level="50" empa="3789" pass="2518" stam="2190" wis="1805"/>
+    <card member="suga" name="메트로놈" id="4001" type="감성" star="4" level="50" empa="2804" pass="1914" stam="2205" wis="1978"/>
+    <card member="suga" name="백설탕" id="4002" type="열정" star="4" level="50" empa="1572" pass="3319" stam="2205" wis="1914"/>
+    <card member="suga" name="나비 넥타이" id="4003" type="체력" star="4" level="50" empa="1594" pass="2234" stam="3511" wis="1594"/>
+    <card member="suga" name="피아니스트" id="4004" type="열정" star="4" level="50" empa="2554" pass="3319" stam="1584" wis="1572"/>
+    <card member="suga" name="가을 편지" id="4005" type="체력" star="4" level="50" empa="1584" pass="2554" stam="3101" wis="1626"/>
+    <card member="suga" name="고민 고민" id="4006" type="지혜" star="4" level="50" empa="1978" pass="2205" stam="1594" wis="3101"/>
+    <card member="suga" name="금발 비니" id="4007" type="열정" star="4" level="50" empa="2256" pass="3213" stam="1740" wis="1754"/>
+    <card member="suga" name="슈가 래빗" id="4008" type="지혜" star="4" level="50" empa="1572" pass="2682" stam="1584" wis="3191"/>
+    <card member="suga" name="나른 벨벳" id="4009" type="체력" star="4" level="50" empa="2234" pass="1594" stam="3191" wis="1914"/>
+    <card member="suga" name="하얀 미소" id="4010" type="지혜" star="4" level="50" empa="1429" pass="1434" stam="2167" wis="4023"/>
+    <card member="suga" name="눈꽃 소년" id="4011" type="감성" star="4" level="50" empa="3319" pass="1584" stam="2554" wis="1572"/>
+    <card member="suga" name="민슈가천재" id="3001" type="체력" star="3" level="50" empa="1407" pass="1687" stam="2835" wis="1967"/>
+    <card member="suga" name="오다 주운 하트" id="3002" type="감성" star="3" level="50" empa="2835" pass="1407" stam="1967" wis="1687"/>
+    <card member="suga" name="설렘" id="3003" type="열정" star="3" level="50" empa="1967" pass="2639" stam="1670" wis="1648"/>
+    <card member="suga" name="슈팅 가드" id="3004" type="체력" star="3" level="50" empa="1407" pass="1908" stam="3255" wis="1399"/>
+    <card member="suga" name="빨간 비니" id="3005" type="지혜" star="3" level="50" empa="1267" pass="2051" stam="1263" wis="3277"/>
+    <card member="suga" name="안경 선배" id="3006" type="열정" star="3" level="50" empa="1897" pass="2394" stam="1827" wis="1778"/>
+    <card member="suga" name="사색의 시간" id="3007" type="열정" star="3" level="50" empa="1967" pass="2639" stam="1648" wis="1670"/>
+    <card member="suga" name="소원" id="3008" type="체력" star="3" level="50" empa="1407" pass="1407" stam="3115" wis="1967"/>
+    <card member="suga" name="가을 남자" id="3009" type="지혜" star="3" level="50" empa="1908" pass="1267" stam="1263" wis="3563"/>
+    <card member="suga" name="열병" id="3010" type="감성" star="3" level="50" empa="2485" pass="1778" stam="1827" wis="1806"/>
+    <card member="suga" name="아티스트" id="3011" type="열정" star="3" level="50" empa="1670" pass="2639" stam="1908" wis="1687"/>
+    <card member="suga" name="야호" id="3012" type="감성" star="3" level="50" empa="2485" pass="1806" stam="1827" wis="1778"/>
+    <card member="suga" name="접근 금지" id="3013" type="체력" star="3" level="50" empa="2247" pass="1387" stam="2947" wis="1399"/>
+    <card member="suga" name="소중한 나" id="3014" type="지혜" star="3" level="50" empa="1407" pass="1435" stam="1908" wis="3073"/>
+    <card member="jhope" name="미소천사" id="5001" type="감성" star="5" level="50" empa="3951" pass="2658" stam="1805" wis="1830"/>
+    <card member="jhope" name="친구야 놀자" id="5002" type="열정" star="5" level="50" empa="1830" pass="4185" stam="2518" wis="1805"/>
+    <card member="jhope" name="흰 가운의 천사" id="5003" type="열정" star="5" level="50" empa="2867" pass="3645" stam="1805" wis="1866"/>
+    <card member="jhope" name="투명 우산" id="5004" type="감성" star="5" level="50" empa="3393" pass="2518" stam="2190" wis="2140"/>
+    <card member="jhope" name="꿈나라 제이홉" id="5005" type="지혜" star="5" level="50" empa="1994" pass="2658" stam="1972" wis="3670"/>
+    <card member="jhope" name="로맨틱 제이홉" id="5006" type="체력" star="5" level="50" empa="2518" pass="1866" stam="3879" wis="1830"/>
+    <card member="jhope" name="FAKE LOVE 제이홉" id="5007" type="열정" star="5" level="50" empa="1830" pass="3393" stam="2518" wis="2474"/>
+    <card member="jhope" name="레드카펫 제이홉" id="5008" type="지혜" star="5" level="50" empa="1645" pass="1650" stam="2474" wis="4581"/>
+    <card member="jhope" name="여름 소년 제이홉" id="5009" type="지혜" star="5" level="50" empa="2474" pass="2190" stam="1819" wis="3789"/>
+    <card member="jhope" name="예뻐 예뻐" id="4001" type="감성" star="4" level="50" empa="3153" pass="1626" stam="1869" wis="2234"/>
+    <card member="jhope" name="앉아, 기다려" id="4002" type="열정" star="4" level="50" empa="1594" pass="3671" stam="2167" wis="1584"/>
+    <card member="jhope" name="참 잘했어요" id="4003" type="체력" star="4" level="50" empa="2464" pass="1594" stam="3153" wis="1626"/>
+    <card member="jhope" name="닥터 홉" id="4004" type="지혜" star="4" level="50" empa="1572" pass="1626" stam="2516" wis="3191"/>
+    <card member="jhope" name="조별 과제" id="4005" type="감성" star="4" level="50" empa="2967" pass="1869" stam="1914" wis="2205"/>
+    <card member="jhope" name="에라 모르겠다" id="4006" type="체력" star="4" level="50" empa="1914" pass="1626" stam="3153" wis="2167"/>
+    <card member="jhope" name="악동" id="4007" type="감성" star="4" level="50" empa="3213" pass="2256" stam="1754" wis="1740"/>
+    <card member="jhope" name="선택과 집중" id="4008" type="열정" star="4" level="50" empa="1594" pass="3319" stam="1572" wis="2516"/>
+    <card member="jhope" name="힙합 희망" id="4009" type="지혜" star="4" level="50" empa="1869" pass="2234" stam="1584" wis="3319"/>
+    <card member="jhope" name="첫 인사" id="4010" type="감성" star="4" level="50" empa="3399" pass="2330" stam="1584" wis="1594"/>
+    <card member="jhope" name="황금빛 오후" id="4011" type="체력" star="4" level="50" empa="2234" pass="1594" stam="3511" wis="1594"/>
+    <card member="jhope" name="가위 바위 보" id="3001" type="열정" star="3" level="50" empa="1435" pass="2757" stam="1687" wis="1942"/>
+    <card member="jhope" name="호잇호잇" id="3002" type="지혜" star="3" level="50" empa="1399" pass="2051" stam="1648" wis="2835"/>
+    <card member="jhope" name="앞으로 앞으로" id="3003" type="체력" star="3" level="50" empa="1967" pass="1648" stam="2639" wis="1670"/>
+    <card member="jhope" name="고백" id="3004" type="지혜" star="3" level="50" empa="1435" pass="1399" stam="1967" wis="3017"/>
+    <card member="jhope" name="캐주얼 데이" id="3005" type="감성" star="3" level="50" empa="3395" pass="1267" stam="1267" wis="1967"/>
+    <card member="jhope" name="스마일 호야" id="3006" type="열정" star="3" level="50" empa="1387" pass="2947" stam="1399" wis="2247"/>
+    <card member="jhope" name="댄디 가이" id="3007" type="감성" star="3" level="50" empa="2485" pass="1806" stam="1827" wis="1778"/>
+    <card member="jhope" name="너만을 위한 랩" id="3008" type="열정" star="3" level="50" empa="1967" pass="2639" stam="1670" wis="1648"/>
+    <card member="jhope" name="고민 상담" id="3009" type="체력" star="3" level="50" empa="1407" pass="1967" stam="3115" wis="1407"/>
+    <card member="jhope" name="희망찬 발걸음" id="3010" type="지혜" star="3" level="50" empa="1263" pass="1967" stam="1257" wis="3563"/>
+    <card member="jhope" name="잘했어" id="3011" type="감성" star="3" level="50" empa="2485" pass="1778" stam="1827" wis="1806"/>
+    <card member="jhope" name="깡충깡충" id="3012" type="체력" star="3" level="50" empa="1687" pass="2051" stam="2496" wis="1670"/>
+    <card member="jhope" name="오늘도 힘차게" id="3013" type="체력" star="3" level="50" empa="1407" pass="1407" stam="3115" wis="1967"/>
+    <card member="jhope" name="아잉" id="3014" type="지혜" star="3" level="50" empa="1967" pass="1267" stam="1267" wis="3395"/>
+    <card member="jimin" name="나 홀로 연습실" id="5001" type="감성" star="5" level="50" empa="3951" pass="2658" stam="1805" wis="1830"/>
+    <card member="jimin" name="춤추는 망개떡" id="5002" type="열정" star="5" level="50" empa="1830" pass="4185" stam="2518" wis="1805"/>
+    <card member="jimin" name="세계 최고 검객" id="5003" type="지혜" star="5" level="50" empa="2867" pass="1830" stam="1805" wis="3789"/>
+    <card member="jimin" name="밤 산책" id="5004" type="체력" star="5" level="50" empa="2550" pass="2140" stam="3393" wis="2168"/>
+    <card member="jimin" name="꿈나라 지민" id="5005" type="체력" star="5" level="50" empa="2010" pass="2622" stam="3670" wis="1972"/>
+    <card member="jimin" name="로맨틱 지민" id="5006" type="체력" star="5" level="50" empa="2518" pass="1830" stam="3879" wis="1866"/>
+    <card member="jimin" name="FAKE LOVE 지민" id="5007" type="지혜" star="5" level="50" empa="2658" pass="1819" stam="2550" wis="3209"/>
+    <card member="jimin" name="레드카펫 지민" id="5008" type="지혜" star="5" level="50" empa="1645" pass="2658" stam="1637" wis="4365"/>
+    <card member="jimin" name="여름 소년 지민" id="5009" type="체력" star="5" level="50" empa="2550" pass="1805" stam="3789" wis="2168"/>
+    <card member="jimin" name="플레이리스트" id="4001" type="감성" star="4" level="50" empa="3191" pass="1594" stam="1914" wis="2234"/>
+    <card member="jimin" name="눈맞춤" id="4002" type="열정" star="4" level="50" empa="1434" pass="4023" stam="1429" wis="2167"/>
+    <card member="jimin" name="검도 꿈나무" id="4003" type="감성" star="4" level="50" empa="3319" pass="2516" stam="1594" wis="1572"/>
+    <card member="jimin" name="사소한 고민" id="4004" type="열정" star="4" level="50" empa="1584" pass="3319" stam="2464" wis="1594"/>
+    <card member="jimin" name="졸려요" id="4005" type="체력" star="4" level="50" empa="1914" pass="1626" stam="3101" wis="2205"/>
+    <card member="jimin" name="코튼 향기" id="4006" type="감성" star="4" level="50" empa="3213" pass="2298" stam="1754" wis="1720"/>
+    <card member="jimin" name="비밀 레시피" id="4007" type="체력" star="4" level="50" empa="1594" pass="1594" stam="3191" wis="2554"/>
+    <card member="jimin" name="귀여운 파티시에" id="4008" type="지혜" star="4" level="50" empa="1895" pass="1914" stam="2167" wis="2967"/>
+    <card member="jimin" name="수줍은 파티시에" id="4009" type="지혜" star="4" level="50" empa="1895" pass="2234" stam="1572" wis="3319"/>
+    <card member="jimin" name="러블리 파티시에" id="4010" type="감성" star="4" level="50" empa="3671" pass="1584" stam="2234" wis="1572"/>
+    <card member="jimin" name="성장통" id="4011" type="지혜" star="4" level="50" empa="1429" pass="1450" stam="2167" wis="3831"/>
+    <card member="jimin" name="동작 그만" id="3001" type="지혜" star="3" level="50" empa="1435" pass="1670" stam="1967" wis="2757"/>
+    <card member="jimin" name="손하트" id="3002" type="감성" star="3" level="50" empa="2835" pass="1435" stam="1942" wis="1648"/>
+    <card member="jimin" name="여기 여기" id="3003" type="감성" star="3" level="50" empa="2485" pass="1778" stam="1827" wis="1806"/>
+    <card member="jimin" name="큐피드" id="3004" type="감성" star="3" level="50" empa="2555" pass="1967" stam="1687" wis="1687"/>
+    <card member="jimin" name="휘핑크림" id="3005" type="체력" star="3" level="50" empa="1407" pass="1908" stam="3255" wis="1399"/>
+    <card member="jimin" name="비타민 요정" id="3006" type="열정" star="3" level="50" empa="1267" pass="3563" stam="1908" wis="1263"/>
+    <card member="jimin" name="어흥" id="3007" type="열정" star="3" level="50" empa="1942" pass="2639" stam="1648" wis="1687"/>
+    <card member="jimin" name="환한 미소" id="3008" type="체력" star="3" level="50" empa="1967" pass="1407" stam="3115" wis="1407"/>
+    <card member="jimin" name="수줍은 고백" id="3009" type="지혜" star="3" level="50" empa="1263" pass="1281" stam="1908" wis="3395"/>
+    <card member="jimin" name="심장 저격" id="3010" type="감성" star="3" level="50" empa="2947" pass="1399" stam="1407" wis="2169"/>
+    <card member="jimin" name="할 말 있어" id="3011" type="열정" star="3" level="50" empa="1908" pass="3255" stam="1399" wis="1307"/>
+    <card member="jimin" name="떨림" id="3012" type="지혜" star="3" level="50" empa="1399" pass="1407" stam="2169" wis="2947"/>
+    <card member="jimin" name="환영해" id="3013" type="체력" star="3" level="50" empa="1267" pass="1967" stam="3395" wis="1267"/>
+    <card member="jimin" name="흥" id="3014" type="지혜" star="3" level="50" empa="1267" pass="1267" stam="1967" wis="3395"/>
+    <card member="v" name="윙크" id="5001" type="감성" star="5" level="50" empa="4005" pass="2658" stam="1819" wis="1805"/>
+    <card member="v" name="척척박사" id="5002" type="열정" star="5" level="50" empa="1819" pass="4005" stam="2474" wis="1866"/>
+    <card member="v" name="보라해" id="5003" type="열정" star="5" level="50" empa="2518" pass="3393" stam="2140" wis="2190"/>
+    <card member="v" name="과수원 소년" id="5004" type="체력" star="5" level="50" empa="2867" pass="1866" stam="3544" wis="1830"/>
+    <card member="v" name="꿈나라 뷔" id="5005" type="지혜" star="5" level="50" empa="1972" pass="2658" stam="1994" wis="3670"/>
+    <card member="v" name="로맨틱 뷔" id="5006" type="체력" star="5" level="50" empa="2658" pass="1805" stam="4005" wis="1819"/>
+    <card member="v" name="FAKE LOVE 뷔" id="5007" type="체력" star="5" level="50" empa="1819" pass="2658" stam="3209" wis="2550"/>
+    <card member="v" name="레드카펫 뷔" id="5008" type="지혜" star="5" level="50" empa="1637" pass="1668" stam="2518" wis="4365"/>
+    <card member="v" name="여름 소년 뷔" id="5009" type="지혜" star="5" level="50" empa="2474" pass="1830" stam="2168" wis="3789"/>
+    <card member="v" name="비주얼 쇼크" id="4001" type="감성" star="4" level="50" empa="3191" pass="1626" stam="1869" wis="2205"/>
+    <card member="v" name="태태 실험실" id="4002" type="열정" star="4" level="50" empa="2234" pass="3511" stam="1594" wis="1594"/>
+    <card member="v" name="명석 안경" id="4003" type="체력" star="4" level="50" empa="1434" pass="2330" stam="3773" wis="1423"/>
+    <card member="v" name="벚꽃 오프닝" id="4004" type="열정" star="4" level="50" empa="2516" pass="3191" stam="1572" wis="1626"/>
+    <card member="v" name="식사를 합시다" id="4005" type="체력" star="4" level="50" empa="1626" pass="2516" stam="3191" wis="1572"/>
+    <card member="v" name="이불 밖은 위험해" id="4006" type="지혜" star="4" level="50" empa="1895" pass="2330" stam="1572" wis="3191"/>
+    <card member="v" name="어디 보자" id="4007" type="체력" star="4" level="50" empa="2330" pass="1740" stam="3213" wis="1720"/>
+    <card member="v" name="토마토 풍년" id="4008" type="지혜" star="4" level="50" empa="1895" pass="2234" stam="1869" wis="2967"/>
+    <card member="v" name="홈 파티" id="4009" type="열정" star="4" level="50" empa="1450" pass="3773" stam="2234" wis="1423"/>
+    <card member="v" name="휴식" id="4010" type="감성" star="4" level="50" empa="3153" pass="1626" stam="1572" wis="2554"/>
+    <card member="v" name="새벽 감성" id="4011" type="체력" star="4" level="50" empa="2234" pass="1914" stam="3191" wis="1594"/>
+    <card member="v" name="치명치명" id="3001" type="체력" star="3" level="50" empa="1435" pass="1648" stam="2835" wis="1942"/>
+    <card member="v" name="내 맘 알지" id="3002" type="열정" star="3" level="50" empa="1387" pass="2947" stam="1942" wis="1687"/>
+    <card member="v" name="기념일" id="3003" type="지혜" star="3" level="50" empa="1407" pass="2051" stam="1399" wis="3017"/>
+    <card member="v" name="농구 천재" id="3004" type="열정" star="3" level="50" empa="1897" pass="2394" stam="1827" wis="1778"/>
+    <card member="v" name="낮잠이 필요해" id="3005" type="열정" star="3" level="50" empa="1687" pass="2555" stam="1687" wis="1967"/>
+    <card member="v" name="일할 시간" id="3006" type="체력" star="3" level="50" empa="1295" pass="1257" stam="3563" wis="1942"/>
+    <card member="v" name="뷔주얼" id="3007" type="열정" star="3" level="50" empa="1967" pass="2639" stam="1670" wis="1648"/>
+    <card member="v" name="널 보면 심쿵" id="3008" type="체력" star="3" level="50" empa="1407" pass="1967" stam="2835" wis="1687"/>
+    <card member="v" name="열창" id="3009" type="지혜" star="3" level="50" empa="1399" pass="1407" stam="1908" wis="3255"/>
+    <card member="v" name="얘기 좀 해" id="3010" type="감성" star="3" level="50" empa="3563" pass="1257" stam="1967" wis="1263"/>
+    <card member="v" name="저런 저런" id="3011" type="열정" star="3" level="50" empa="1387" pass="2639" stam="1908" wis="1670"/>
+    <card member="v" name="인사" id="3012" type="감성" star="3" level="50" empa="2947" pass="1399" stam="2247" wis="1387"/>
+    <card member="v" name="울먹울먹" id="3013" type="체력" star="3" level="50" empa="1295" pass="1263" stam="3563" wis="1908"/>
+    <card member="v" name="내 입에 캔디" id="3014" type="지혜" star="3" level="50" empa="1263" pass="1281" stam="1908" wis="3395"/>
+    <card member="jungkook" name="국가대표" id="5001" type="감성" star="5" level="50" empa="3879" pass="2550" stam="1819" wis="1866"/>
+    <card member="jungkook" name="이름은 정국" id="5002" type="감성" star="5" level="50" empa="3253" pass="2658" stam="2140" wis="2190"/>
+    <card member="jungkook" name="매점 가는 길" id="5003" type="열정" star="5" level="50" empa="3054" pass="3544" stam="1830" wis="1819"/>
+    <card member="jungkook" name="황금막내" id="5004" type="열정" star="5" level="50" empa="1819" pass="4185" stam="2474" wis="1830"/>
+    <card member="jungkook" name="꿈나라 정국" id="5005" type="열정" star="5" level="50" empa="1972" pass="3670" stam="2622" wis="2010"/>
+    <card member="jungkook" name="로맨틱 정국" id="5006" type="체력" star="5" level="50" empa="2518" pass="1866" stam="3879" wis="1830"/>
+    <card member="jungkook" name="FAKE LOVE 정국" id="5007" type="열정" star="5" level="50" empa="2474" pass="3393" stam="2518" wis="1830"/>
+    <card member="jungkook" name="레드카펫 정국" id="5008" type="지혜" star="5" level="50" empa="2658" pass="1637" stam="1650" wis="4300"/>
+    <card member="jungkook" name="여름 소년 정국" id="5009" type="열정" star="5" level="50" empa="2474" pass="3789" stam="1819" wis="2190"/>
+    <card member="jungkook" name="태권 소년" id="4001" type="감성" star="4" level="50" empa="3511" pass="1626" stam="2205" wis="1572"/>
+    <card member="jungkook" name="검은 띠" id="4002" type="체력" star="4" level="50" empa="2516" pass="1594" stam="3101" wis="1626"/>
+    <card member="jungkook" name="햇살 가득" id="4003" type="열정" star="4" level="50" empa="1450" pass="3773" stam="1434" wis="2167"/>
+    <card member="jungkook" name="명랑소년" id="4004" type="지혜" star="4" level="50" empa="1584" pass="1626" stam="2464" wis="3191"/>
+    <card member="jungkook" name="신나" id="4005" type="감성" star="4" level="50" empa="3191" pass="1626" stam="1572" wis="2516"/>
+    <card member="jungkook" name="멍 때리기" id="4006" type="체력" star="4" level="50" empa="1914" pass="1594" stam="3191" wis="2234"/>
+    <card member="jungkook" name="보드게임 시간" id="4007" type="열정" star="4" level="50" empa="2298" pass="3213" stam="1720" wis="1754"/>
+    <card member="jungkook" name="봄바람" id="4008" type="열정" star="4" level="50" empa="2205" pass="2967" stam="1869" wis="1914"/>
+    <card member="jungkook" name="시합 5분 전" id="4009" type="지혜" star="4" level="50" empa="1914" pass="2330" stam="1572" wis="3153"/>
+    <card member="jungkook" name="정면승부" id="4010" type="감성" star="4" level="50" empa="3831" pass="2234" stam="1434" wis="1434"/>
+    <card member="jungkook" name="작가의 독서" id="4011" type="열정" star="4" level="50" empa="2205" pass="3191" stam="1869" wis="1626"/>
+    <card member="jungkook" name="이동 수업" id="3001" type="열정" star="3" level="50" empa="1435" pass="2801" stam="1687" wis="1908"/>
+    <card member="jungkook" name="아 빠이팅" id="3002" type="체력" star="3" level="50" empa="1399" pass="2051" stam="2757" wis="1687"/>
+    <card member="jungkook" name="몰라 몰라" id="3003" type="체력" star="3" level="50" empa="1897" pass="1778" stam="2415" wis="1806"/>
+    <card member="jungkook" name="멍뭉미" id="3004" type="체력" star="3" level="50" empa="1687" pass="1908" stam="2639" wis="1670"/>
+    <card member="jungkook" name="하얀 마음" id="3005" type="감성" star="3" level="50" empa="3255" pass="1399" stam="1967" wis="1387"/>
+    <card member="jungkook" name="동글동글" id="3006" type="지혜" star="3" level="50" empa="1263" pass="1267" stam="1908" wis="3563"/>
+    <card member="jungkook" name="깊은 고민" id="3007" type="열정" star="3" level="50" empa="1908" pass="2639" stam="1670" wis="1687"/>
+    <card member="jungkook" name="토끼 소년" id="3008" type="체력" star="3" level="50" empa="1687" pass="1407" stam="2835" wis="1967"/>
+    <card member="jungkook" name="나만 봐" id="3009" type="지혜" star="3" level="50" empa="1967" pass="1435" stam="1399" wis="3017"/>
+    <card member="jungkook" name="널 담는 시간" id="3010" type="감성" star="3" level="50" empa="2485" pass="1778" stam="1827" wis="1806"/>
+    <card member="jungkook" name="진지한 눈빛" id="3011" type="열정" star="3" level="50" empa="1942" pass="3563" stam="1257" wis="1267"/>
+    <card member="jungkook" name="귀염둥이" id="3012" type="열정" star="3" level="50" empa="1908" pass="3255" stam="1399" wis="1407"/>
+    <card member="jungkook" name="거기 너" id="3013" type="체력" star="3" level="50" empa="1967" pass="1648" stam="2639" wis="1670"/>
+    <card member="jungkook" name="하나 둘" id="3014" type="지혜" star="3" level="50" empa="1263" pass="1967" stam="1257" wis="3563"/>
 </card_list>
